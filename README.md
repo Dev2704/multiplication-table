@@ -1,4 +1,4 @@
-
+````markdown
 # Multiplication Table Java
 
 A simple Java program that generates multiplication tables. Perfect for beginners to practice Java and understand loops!
@@ -46,11 +46,3 @@ This project is open source — do whatever you want with it. ✌️
 ````
 
 ---
-
-Just create a file named `README.md` in your repo folder, paste this in, save, and push it to GitHub:
-
-```bash
-git add README.md
-git commit -m "Add README for multiplication table project"
-git push
-````
